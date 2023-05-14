@@ -377,7 +377,6 @@
     "@microsoft/vscode-serial-monitor-api": "^0.1.5",
     "@vscode/extension-telemetry": "~0.6.2",
     "body-parser": "^1.16.1",
-    "cocopa": "0.0.13",
     "eventemitter2": "^4.1.0",
     "express": "^4.14.1",
     "extract-zip": "^2.0.1",
@@ -389,7 +388,8 @@
     "usb-detection": "^4.13.0",
     "uuid": "^3.0.1",
     "winreg": "^1.2.3",
-    "winston": "^2.4.5"
+    "winston": "^2.4.5",
+    "cocopa": "https://github.com/tylerjwatson/cocopa/releases/download/v0.0.15/cocopa-0.0.15.tgz"
   },
   "overrides": {
     "async": "~3.2.3",

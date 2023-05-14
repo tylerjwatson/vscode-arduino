@@ -44,9 +44,9 @@
             ],
             "stopOnEntry": false,
             "sourceMaps": true,
-            "outFiles": [
-                "${workspaceRoot}/out/src/**/*.js"
-            ],
+            // "outFiles": [
+            //     "${workspaceRoot}/out/src/**/*.js"
+            // ],
             "preLaunchTask": "build_without_view"
         }
     ]
